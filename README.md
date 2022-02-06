@@ -2,7 +2,7 @@
 - 👀 I’m interested in anything tech 
 - 🌱 I’m currently learning goLang and Cosmos
 - 💞️ I’m looking to collaborate on everyhting 
-- 📫 How to reach me Joshua.GS.Fitchett@gmail.com
+- 📫 How to reach me FitchTech20@gmail.com
 
 <!---
 MrFitch22/MrFitch22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
